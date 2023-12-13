@@ -1,0 +1,2 @@
+Ang inyong index kay kanang stud_add.php
+Ang e search sa browser kay localhost/Marienel/stud_add.php
